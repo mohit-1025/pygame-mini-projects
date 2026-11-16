@@ -1,6 +1,6 @@
 # 🎮 Pygame Mini Projects
 
-A growing collection of **mini projects built with Python and Pygame** — games, tools, and experiments, each kept in its own folder.
+A collection of **mini projects built with Python and Pygame** — games, tools, and experiments, each kept in its own folder.
 
 Every project here is self-contained: you can open a folder, install Pygame, run `main.py`, and start playing.
 
